@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @notoriskin
-- Diligent, wholehearted, and flexible student with a passion for helping people through technology.
+- 👋 Hi, I’m @notoriskin - Diligent, wholehearted, and flexible student with a passion for helping people through technology.
  Seeking to apply my skills and abilities to aid your company in meeting its goals and milestones while bringing smiles and joy to customers' faces.
 - 👀 I’m interested 📱 iOS app development, 🧠 embedded systems, and building 🌍 human-first digital tools
 - 🌱 I’m currently learning SwiftUI 🦜, C for Arduino 🤖, and bootstrapping businesses 💼
