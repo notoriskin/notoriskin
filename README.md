@@ -11,7 +11,6 @@
 ### 📍 About Me
 
 Welcome to my GitHub!  
-I'm **Boris Ryavkin**, a recent Mechatronics Engineering graduate from **Queensland University of Technology (QUT)**.  
 I use this space to showcase both **hardware + software** projects — from embedded C microcontrollers to full-stack apps built with **React**, **SwiftUI**, and more.
 
 You'll find real-world builds, Arduino hacks, iOS prototypes, and practical tools I’ve created while blending design, logic, and systems thinking.
@@ -22,7 +21,6 @@ You'll find real-world builds, Arduino hacks, iOS prototypes, and practical tool
 
 **Bachelor of Engineering (Hons) – Mechatronics**  
 Queensland University of Technology (2021 – 2024)  
-GPA: 🎓 First Class Honours (7.0 / 7.0)  
 Main Areas: Embedded Systems, Signal Processing, Robotics, Linux, C, Python
 
 **Certificate III in Fabrication** – IEK, Irkutsk (2019 – 2021)  
@@ -61,10 +59,6 @@ Check out the pinned repos or scroll through my projects to see more.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=borisryavkin&show_icons=true&theme=tokyonight" alt="Boris GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisryavkin&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
