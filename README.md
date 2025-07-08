@@ -74,7 +74,6 @@ Check out the pinned repos or scroll through my projects to see more.
 ---
 
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/made-with-python.svg" />
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
 </p>
