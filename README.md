@@ -47,9 +47,7 @@ Main Areas: Embedded Systems, Signal Processing, Robotics, Linux, C, Python
 ### 💡 Projects Preview
 
 - 🔋 **BLE-Controlled RC Tank** — Arduino + SwiftUI app, controlled via HC-05
-- 🎛️ **Modular Synth Oscillator** — custom wave generator using DAC
 - 🧭 **Portfolio Website** — Vite + React, old-school vibe, self-hosted on VPS
-- 📲 **Prayer Tap App** — iOS UI with interactive animations + sound FX
 
 Check out the pinned repos or scroll through my projects to see more.
 
@@ -58,11 +56,11 @@ Check out the pinned repos or scroll through my projects to see more.
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=borisryavkin&show_icons=true&theme=tokyonight" alt="Boris GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=notoriskin&show_icons=true&theme=tokyonight" alt="Boris GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borisryavkin&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notoriskin&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
