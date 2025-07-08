@@ -1,7 +1,9 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=notoriskin.visitor-badge)
-<!-- Boris Ryavkin GitHub Profile README -->
 
-<h1 align="center">Hi there, I'm Boris 👋</h1>
+<!-- Boris Ryavkin GitHub Profile README -->
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=notoriskin.visitor-badge)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет,+я+Борис+👋;Hi+there,+I'm+Boris+👋)](https://git.io/typing-svg)
+
 <p align="center">
   🇷🇺 → 🇦🇺 Multidisciplinary Engineer & Developer <br>
   Building cool things with <strong>React</strong>, <strong>Swift</strong>, and <strong>Microcontrollers</strong> 🚀
