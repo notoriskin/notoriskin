@@ -1,3 +1,4 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 <!-- Boris Ryavkin GitHub Profile README -->
 
 <h1 align="center">Hi there, I'm Boris 👋</h1>
