@@ -1,11 +1,88 @@
-- 👋 Hi, I’m @notoriskin - Diligent, wholehearted, and flexible student with a passion for helping people through technology.
- Seeking to apply my skills and abilities to aid your company in meeting its goals and milestones while bringing smiles and joy to customers' faces.
-- 👀 I’m interested 📱 iOS app development, 🧠 embedded systems, and building 🌍 human-first digital tools
-- 🌱 I’m currently learning SwiftUI 🦜, C for Arduino 🤖, and bootstrapping businesses 💼
-- 💞️ I’m looking to collaborate on apps that blend 🧘 health, 🔁 habit tracking, and 🙏 spiritual well-being
-- 📫 How to reach me 📧 [borisry@icloud.com] • 💼 LinkedIn: [[lets network](https://www.linkedin.com/in/boris-ryavkin/)] • 📲 Telegram: @notbor1ous • 🛜 [[ryavkinboris.ru](https://ryavkinboris.ru)]
-- ⚡ Fun fact: I used to compete in 🎯 biathlons and now I build 🚗 LEGO cars powered by Arduino!
-<!---
-notoriskin/notoriskin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Boris Ryavkin GitHub Profile README -->
+
+<h1 align="center">Hi there, I'm Boris 👋</h1>
+<p align="center">
+  🇷🇺 → 🇦🇺 Multidisciplinary Engineer & Developer <br>
+  Building cool things with <strong>React</strong>, <strong>Swift</strong>, and <strong>Microcontrollers</strong> 🚀
+</p>
+
+---
+
+### 📍 About Me
+
+Welcome to my GitHub!  
+I'm **Boris Ryavkin**, a recent Mechatronics Engineering graduate from **Queensland University of Technology (QUT)**.  
+I use this space to showcase both **hardware + software** projects — from embedded C microcontrollers to full-stack apps built with **React**, **SwiftUI**, and more.
+
+You'll find real-world builds, Arduino hacks, iOS prototypes, and practical tools I’ve created while blending design, logic, and systems thinking.
+
+---
+
+### 📖 Education
+
+**Bachelor of Engineering (Hons) – Mechatronics**  
+Queensland University of Technology (2021 – 2024)  
+GPA: 🎓 First Class Honours (7.0 / 7.0)  
+Main Areas: Embedded Systems, Signal Processing, Robotics, Linux, C, Python
+
+**Certificate III in Fabrication** – IEK, Irkutsk (2019 – 2021)  
+**Certificate II in Electrotechnology** – TAFE QLD (2018 – 2019)
+
+---
+
+### 🧠 Skills & Tech I Use
+
+#### 🛠️ Languages
+`C` `Python` `Swift` `JavaScript` `HTML` `CSS` `LaTeX`
+
+#### 📦 Frameworks & Tools
+`React` `SwiftUI` `Tailwind CSS` `Node.js` `Arduino` `Vite` `MATLAB`
+
+#### 🔧 Hardware & Electronics
+`ATmega328P` `ESP32` `HC-05 Bluetooth` `L298N` `7-segment displays` `Soldering`
+
+#### 🖥️ Platforms & Software
+`Linux (CLI + Vim)` `macOS` `Windows` `Figma` `Photoshop` `Illustrator`
+
+---
+
+### 💡 Projects Preview
+
+- 🔋 **BLE-Controlled RC Tank** — Arduino + SwiftUI app, controlled via HC-05
+- 🎛️ **Modular Synth Oscillator** — custom wave generator using DAC
+- 🧭 **Portfolio Website** — Vite + React, old-school vibe, self-hosted on VPS
+- 📲 **Prayer Tap App** — iOS UI with interactive animations + sound FX
+
+Check out the pinned repos or scroll through my projects to see more.
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=borisryavkin&show_icons=true&theme=tokyonight" alt="Boris GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=borisryavkin&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borisryavkin&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/borisryavkin)  
+- [GitBook Notes](#) (coming soon)  
+- [Portfolio Website](#) (under construction)
+
+---
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg" />
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
+</p>
