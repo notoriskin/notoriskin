@@ -72,7 +72,7 @@ Check out the pinned repos or scroll through my projects to see more.
 
 - [LinkedIn](https://www.linkedin.com/in/boris-ryavkin)
 - [GitBook Notes](#) (coming soon)  
-- [Portfolio Website](#) (under construction)
+- [Portfolio Website](https://notoriskin.github.io/boris-blog/)
 
 ---
 
