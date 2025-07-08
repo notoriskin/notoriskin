@@ -34,16 +34,16 @@ Main Areas: Embedded Systems, Signal Processing, Robotics, Linux, C, Python
 ### 🧠 Skills & Tech I Use
 
 #### 🛠️ Languages
-`C` `Python` `Swift` `JavaScript` `HTML` `CSS` `LaTeX`
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,swift,py,latex,bash,mysql)](https://skillicons.dev)
 
 #### 📦 Frameworks & Tools
 `React` `SwiftUI` `Tailwind CSS` `Node.js` `Arduino` `Vite` `MATLAB`
 
 #### 🔧 Hardware & Electronics
-`ATmega328P` `ESP32` `HC-05 Bluetooth` `L298N` `7-segment displays` `Soldering`
+`ATmega328P` `ESP32` `HC-05 Bluetooth` `L298N` `segment displays` `Soldering`
 
 #### 🖥️ Platforms & Software
-`Linux (CLI + Vim)` `macOS` `Windows` `Figma` `Photoshop` `Illustrator`
+`Linux (CLI + Vim)` `macOS` `Windows` `Photoshop` `Illustrator`
 
 ---
 
