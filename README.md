@@ -15,9 +15,9 @@
 
 Welcome to my GitHub!  
 I’m a multidisciplinary engineer who ...\
-	•	⚙️ Designed and built embedded systems using Arduino, HC-05, and L298N for robotics and control.
-	•	📱 Developed iOS apps in Swift and SwiftUI, as well as cross-platform solutions with Dart/Flutter.
-	•	🌐 Like any other junior dev played around with full-stack web apps using JavaScript libraries such as React/Vue.
+	•	⚙️ Designed and built embedded systems using Arduino, HC-05, and L298N for robotics and control.\
+	•	📱 Developed iOS apps in Swift and SwiftUI, as well as cross-platform solutions with Dart/Flutter.\
+	•	🌐 Like any other junior dev played around with full-stack web apps using JavaScript libraries such as React/Vue.\
 	•	🧩 Combine electronics, software, and design thinking to create complete, practical solutions.
 
 Open to: Junior iOS roles, embedded systems projects, and full-stack development opportunities.
