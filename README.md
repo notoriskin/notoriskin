@@ -11,12 +11,16 @@
 
 ---
 
-### 📍 About Me
+### 🤖 About Me
 
 Welcome to my GitHub!  
-I use this space to showcase both **hardware + software** projects — from embedded C microcontrollers to full-stack apps built with **React**, **SwiftUI**, and more.
+I’m a multidisciplinary engineer who ...\
+	•	⚙️ Designed and built embedded systems using Arduino, HC-05, and L298N for robotics and control.
+	•	📱 Developed iOS apps in Swift and SwiftUI, as well as cross-platform solutions with Dart/Flutter.
+	•	🌐 Like any other junior dev played around with full-stack web apps using JavaScript libraries such as React/Vue.
+	•	🧩 Combine electronics, software, and design thinking to create complete, practical solutions.
 
-You'll find real-world builds, Arduino hacks, iOS prototypes, and practical tools I’ve created while blending design, logic, and systems thinking.
+Open to: Junior iOS roles, embedded systems projects, and full-stack development opportunities.
 
 ---
 
@@ -37,10 +41,10 @@ Main Areas: Embedded Systems, Signal Processing, Robotics, Linux, C, Python
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,swift,py,latex,bash,mysql)](https://skillicons.dev)
 
 #### 📦 Frameworks & Tools
-`React` `SwiftUI` `Tailwind CSS` `Node.js` `Arduino` `Vite` `MATLAB`
+`React` `SwiftUI` `Tailwind CSS` `Arduino` `Vite` `MATLAB`
 
 #### 🔧 Hardware & Electronics
-`ATmega328P` `ESP32` `HC-05 Bluetooth` `L298N` `segment displays` `Soldering`
+`HC-05 Bluetooth` `L298N Motor control` `segment displays` `Soldering`
 
 #### 🖥️ Platforms & Software
 `Linux (CLI + Vim)` `macOS` `Windows` `Photoshop` `Illustrator`
@@ -68,7 +72,7 @@ Check out the pinned repos or scroll through my projects to see more.
 
 ---
 
-### 📬 Let's Connect
+### 📬 Let's Connect and Collaborate!
 
 - [LinkedIn](https://www.linkedin.com/in/boris-ryavkin)
 - [Portfolio Website](https://notoriskin.github.io/boris-blog/)
